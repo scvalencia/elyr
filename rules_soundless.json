@@ -1,0 +1,724 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "5.440",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "One, one, one..."
+   ]
+  },
+  {
+   "begin": "5.440",
+   "children": [],
+   "end": "10.400",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Talkin' in my sleep at night"
+   ]
+  },
+  {
+   "begin": "10.400",
+   "children": [],
+   "end": "13.280",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Makin' myself crazy"
+   ]
+  },
+  {
+   "begin": "13.280",
+   "children": [],
+   "end": "16.760",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "(Out of my mind, out of my mind)"
+   ]
+  },
+  {
+   "begin": "16.760",
+   "children": [],
+   "end": "18.800",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Wrote it down and read it out"
+   ]
+  },
+  {
+   "begin": "18.800",
+   "children": [],
+   "end": "21.760",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Hopin' it would save me"
+   ]
+  },
+  {
+   "begin": "21.760",
+   "children": [],
+   "end": "24.960",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "(Too many times, too many times)"
+   ]
+  },
+  {
+   "begin": "24.960",
+   "children": [],
+   "end": "30.280",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "My love, he makes me feel like nobody else"
+   ]
+  },
+  {
+   "begin": "30.280",
+   "children": [],
+   "end": "32.520",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Nobody else"
+   ]
+  },
+  {
+   "begin": "32.520",
+   "children": [],
+   "end": "38.720",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "But my love, he doesn't love me, so I tell myself"
+   ]
+  },
+  {
+   "begin": "38.720",
+   "children": [],
+   "end": "40.360",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "I tell myself"
+   ]
+  },
+  {
+   "begin": "40.360",
+   "children": [],
+   "end": "42.520",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "One, don't pick up the phone"
+   ]
+  },
+  {
+   "begin": "42.520",
+   "children": [],
+   "end": "46.040",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "You know he's only calling 'cause he's drunk and alone"
+   ]
+  },
+  {
+   "begin": "46.040",
+   "children": [],
+   "end": "47.520",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Two, don't let him in"
+   ]
+  },
+  {
+   "begin": "47.520",
+   "children": [],
+   "end": "49.800",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "You'll have to kick him out again"
+   ]
+  },
+  {
+   "begin": "49.800",
+   "children": [],
+   "end": "51.840",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Three, don't be his friend"
+   ]
+  },
+  {
+   "begin": "51.840",
+   "children": [],
+   "end": "54.600",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "You know you're gonna wake up in his bed in the morning"
+   ]
+  },
+  {
+   "begin": "54.600",
+   "children": [],
+   "end": "58.360",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And if you're under him, you ain't gettin' over him"
+   ]
+  },
+  {
+   "begin": "58.360",
+   "children": [],
+   "end": "62.360",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "62.360",
+   "children": [],
+   "end": "66.440",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "66.440",
+   "children": [],
+   "end": "70.640",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "I gotta tell them to myself"
+   ]
+  },
+  {
+   "begin": "70.640",
+   "children": [],
+   "end": "74.720",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "74.720",
+   "children": [],
+   "end": "76.880",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "I gotta tell them to myself"
+   ]
+  },
+  {
+   "begin": "76.880",
+   "children": [],
+   "end": "81.440",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "I keep pushin' forwards, but he keeps pullin' me backwards"
+   ]
+  },
+  {
+   "begin": "81.440",
+   "children": [],
+   "end": "83.360",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "(Nowhere to turn) no way"
+   ]
+  },
+  {
+   "begin": "83.360",
+   "children": [],
+   "end": "85.000",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "(Nowhere to turn) no"
+   ]
+  },
+  {
+   "begin": "85.000",
+   "children": [],
+   "end": "89.480",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Now I'm standing back from it, I finally see the pattern"
+   ]
+  },
+  {
+   "begin": "89.480",
+   "children": [],
+   "end": "90.840",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "(I never learn, I never learn)"
+   ]
+  },
+  {
+   "begin": "90.840",
+   "children": [],
+   "end": "95.200",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "But my love, he doesn't love me, so I tell myself"
+   ]
+  },
+  {
+   "begin": "95.200",
+   "children": [],
+   "end": "96.560",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "I tell myself"
+   ]
+  },
+  {
+   "begin": "96.560",
+   "children": [],
+   "end": "98.920",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "I do, I do, I do"
+   ]
+  },
+  {
+   "begin": "98.920",
+   "children": [],
+   "end": "102.440",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "One, don't pick up the phone"
+   ]
+  },
+  {
+   "begin": "102.440",
+   "children": [],
+   "end": "105.680",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "You know he's only calling 'cause he's drunk and alone"
+   ]
+  },
+  {
+   "begin": "105.680",
+   "children": [],
+   "end": "107.520",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Two, don't let him in"
+   ]
+  },
+  {
+   "begin": "107.520",
+   "children": [],
+   "end": "109.800",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "You'll have to kick him out again"
+   ]
+  },
+  {
+   "begin": "109.800",
+   "children": [],
+   "end": "112.080",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Three, don't be his friend"
+   ]
+  },
+  {
+   "begin": "112.080",
+   "children": [],
+   "end": "114.600",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "You know you're gonna wake up in his bed in the morning"
+   ]
+  },
+  {
+   "begin": "114.600",
+   "children": [],
+   "end": "116.640",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And if you're under him, you ain't gettin' over him"
+   ]
+  },
+  {
+   "begin": "116.640",
+   "children": [],
+   "end": "118.560",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "118.560",
+   "children": [],
+   "end": "120.800",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "120.800",
+   "children": [],
+   "end": "124.640",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "I gotta tell them to myself"
+   ]
+  },
+  {
+   "begin": "124.640",
+   "children": [],
+   "end": "128.000",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "128.000",
+   "children": [],
+   "end": "130.520",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "I gotta tell them to myself"
+   ]
+  },
+  {
+   "begin": "130.520",
+   "children": [],
+   "end": "132.880",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Practice makes perfect"
+   ]
+  },
+  {
+   "begin": "132.880",
+   "children": [],
+   "end": "135.760",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "I'm still tryna learn it by heart"
+   ]
+  },
+  {
+   "begin": "135.760",
+   "children": [],
+   "end": "138.840",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "(I got new rules, I count 'em)"
+   ]
+  },
+  {
+   "begin": "138.840",
+   "children": [],
+   "end": "140.760",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Eat, sleep, and breathe it"
+   ]
+  },
+  {
+   "begin": "140.760",
+   "children": [],
+   "end": "144.760",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Rehearse and repeat it, 'cause I"
+   ]
+  },
+  {
+   "begin": "144.760",
+   "children": [],
+   "end": "148.840",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "(I got new, I got new, I...)"
+   ]
+  },
+  {
+   "begin": "148.840",
+   "children": [],
+   "end": "151.720",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "One, don't pick up the phone"
+   ]
+  },
+  {
+   "begin": "151.720",
+   "children": [],
+   "end": "157.240",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "You know he's only calling 'cause he's drunk and alone"
+   ]
+  },
+  {
+   "begin": "157.240",
+   "children": [],
+   "end": "159.080",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "Two, don't let him in"
+   ]
+  },
+  {
+   "begin": "159.080",
+   "children": [],
+   "end": "161.560",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "You'll have to kick him out again"
+   ]
+  },
+  {
+   "begin": "161.560",
+   "children": [],
+   "end": "163.800",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Three, don't be his friend"
+   ]
+  },
+  {
+   "begin": "163.800",
+   "children": [],
+   "end": "167.560",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "You know you're gonna wake up in his bed in the morning"
+   ]
+  },
+  {
+   "begin": "167.560",
+   "children": [],
+   "end": "170.080",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "And if you're under him, you ain't gettin' over him"
+   ]
+  },
+  {
+   "begin": "170.080",
+   "children": [],
+   "end": "174.040",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "174.040",
+   "children": [],
+   "end": "177.360",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "177.360",
+   "children": [],
+   "end": "178.160",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "(Oh, whoa-oh)"
+   ]
+  },
+  {
+   "begin": "178.160",
+   "children": [],
+   "end": "182.320",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "I gotta tell them to myself"
+   ]
+  },
+  {
+   "begin": "182.320",
+   "children": [],
+   "end": "188.200",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "I got new rules, I count 'em"
+   ]
+  },
+  {
+   "begin": "188.200",
+   "children": [],
+   "end": "191.520",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "(Baby, you know I count 'em)"
+   ]
+  },
+  {
+   "begin": "191.520",
+   "children": [],
+   "end": "195.600",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "I gotta tell them to myself"
+   ]
+  },
+  {
+   "begin": "195.600",
+   "children": [],
+   "end": "198.760",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "Don't let him in, don't let him in"
+   ]
+  },
+  {
+   "begin": "198.760",
+   "children": [],
+   "end": "200.640",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "Don't, don't, don't, don't"
+   ]
+  },
+  {
+   "begin": "200.640",
+   "children": [],
+   "end": "205.920",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Don't be his friend, don't be his friend"
+   ]
+  },
+  {
+   "begin": "205.920",
+   "children": [],
+   "end": "208.440",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "Don't, don't, don't, don't"
+   ]
+  },
+  {
+   "begin": "208.440",
+   "children": [],
+   "end": "211.120",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Don't let him in, don't let him in"
+   ]
+  },
+  {
+   "begin": "211.120",
+   "children": [],
+   "end": "213.160",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "Don't, don't, don't, don't"
+   ]
+  },
+  {
+   "begin": "213.160",
+   "children": [],
+   "end": "215.400",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Don't be his friend, don't be his friend"
+   ]
+  },
+  {
+   "begin": "215.400",
+   "children": [],
+   "end": "218.000",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "Don't, don't, don't, don't"
+   ]
+  },
+  {
+   "begin": "218.000",
+   "children": [],
+   "end": "219.600",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "You gettin' over him"
+   ]
+  }
+ ]
+}
