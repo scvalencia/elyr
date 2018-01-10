@@ -115,6 +115,20 @@ def write_soundless_wav(time_array, channel, avg, aeneas_original_filename, fs):
     write(filename, fs, np.array(final_data_chunks))
 
     return final_time_chunks, final_data_chunks, filename
+
+def process_soundless_file(tchunk, dchunk, time_array, channel, aeneas_soundless_filename):
+    
+    aeneas_fragments = read_aeneas_mapping(aeneas_soundless_filename)
+
+    for fragment in aeneas_fragments:
+    
+        begin = float(fragment['begin'])
+        end = float(fragment['end'])
+
+        if begin == end:
+            continue
+
+        _, chunk, _ = chunkit(tchunk, dchunk, begin, end)
     
 def _test():
     
@@ -131,10 +145,12 @@ def _test():
     # TODO: run REPET algorithm on original_wav to generate foreground_file_name
 
     time_array, channel, avg, fs = get_significant_channel(foreground_file_name)
-    tchunks, dchunks, fn = write_soundless_wav(time_array, channel, avg, aeneas_filename, fs)
+    tchunk, dchunk, fn = write_soundless_wav(time_array, channel, avg, aeneas_filename, fs)
 
     # Run aeneas on fn with lyrics_file
     aeneas_soundless_filename = f'{song_id}_soundless.json'
     run_aeneas_task(fn, lyrics_file, aeneas_soundless_filename)
+
+    #process_soundless_file(tchunk, dchunk, time_array, channel, aeneas_soundless_filename)
     
 _test()
