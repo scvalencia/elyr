@@ -11,3 +11,5 @@ foreground_signal = audio_signal-background_signal;
 % the accompaniment and vocals, respectively
 audiowrite('rules_accompaniment.wav', background_signal, sample_rate)
 audiowrite('rules_foreground.wav', foreground_signal, sample_rate)
+
+% run("audio_splitter.m")
